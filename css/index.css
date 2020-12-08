@@ -1,0 +1,246 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #d4c8c8;
+	width: 100%;
+	margin: 0 auto;
+	overflow-x: hidden;
+	
+}
+a{
+	color: #000;
+}
+
+.menu{
+	margin-top: 40px;
+}
+.header2{
+	display: flex;
+}
+.logo{
+	width:100%;
+	margin-left: 45px;
+	margin-top: 16px;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	justify-content: end;
+/* 	background-color: #e2cdcd; */
+	
+}
+
+li{
+	width: 150px;
+	line-height: 60px;
+	text-align: center;
+	height: 70px;
+	/*! border: solid 1px black; */
+	text-decoration: none;
+	color: #ffffff !important;
+}
+.consept{
+	width: 998px;
+	height: 300px;
+	left: 220px;
+}
+.text{
+	margin-left: 450px;
+
+}
+.title{
+	
+	margin-left: 100px;
+	margin-top: 100px;
+	margin-bottom: 75px;
+	font-size: 2.2em;
+}
+.consept p{
+	margin-left: 100px;
+}
+.logo2{
+	position: relative;
+	bottom: 800px;
+	left: 400px;
+}
+.sales h2{
+	margin-left: 300px;
+	line-height: 70px;
+	font-size: 3em;
+	border-bottom: 1px solid #000;
+	width: 350px;
+
+}
+.sales p{
+	margin-left: 300px;
+	line-height: 60px;
+	font-size: 2em;
+	
+}
+.sales{
+	margin-top: 60px;
+	
+}
+.Fee h2{
+	margin-left: 700px;
+	margin-top: 3px;
+	line-height: 70px;
+	font-size: 3em;
+	border-bottom: 1px solid #000;
+	width: 350px;
+
+}
+.Fee p{
+	margin-left: 700px;
+	line-height: 60px;
+	font-size: 2em;
+	
+}
+.Fee{
+	margin-left: 100px;
+	margin-bottom:100px;
+	position: relative;
+	bottom: 194px;
+}
+.good{
+	text-align: center;
+}
+.good2{
+	position: relative;
+	bottom: 100px;
+	font-size: 2em;
+	color: #fff;
+}
+.ribbon{
+	margin-bottom: 50px;
+	font-size: 2em;
+	color: #fff;
+}
+.box-title{
+	margin-left: 100px;
+	font-size: 1.5em;
+	border-bottom: 1px solid #fff;
+}
+.introduction{
+	font-size: 1.4em;
+	width: 500px;
+	text-align: left;
+	margin: 0 auto;
+	line-height: 40px;
+	
+}
+.menu2{
+	text-align: center;
+	line-height: 400px;
+	font-size: 3em;
+}
+.box2{
+	width: 440px;
+	margin: 0 auto;
+	display: flex;
+}
+.box2 p{
+	margin:0 20px;
+	width: 100px;
+	height: 30px;
+}
+.drink{
+	text-align: center;
+	font-size: 2.5em;
+	line-height: 40px;
+	padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #00BCD4;
+    background: #e4fcff;
+    border-top: solid 6px #1dc1d6;
+	box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+	width: 20%;
+}
+.food{
+	text-align: center;
+	font-size: 2.5em;
+	line-height: 40px;
+	padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #00BCD4;
+    background: #e4fcff;
+    border-top: solid 6px #1dc1d6;
+	box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+	width: 20%;
+	
+}
+.List{
+	text-align: center;
+	font-size: 2.5em;
+	line-height: 300px;
+
+	
+}
+.rabbit{
+	text-align: center;	
+}
+.rabbit2{
+	line-height: 60px;
+	font-size: 1.5em;
+    margin: 1em 0;
+}
+.rabbit3{
+	line-height: 60px;
+	font-size: 1.5em;
+    margin: 1em 0;
+}
+.rabbit4{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+}
+.rabbit5{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+}
+.rabbit6{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+}
+.rabbit7{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+}
+.rabbit8{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+    
+}
+.rabbit9{
+	line-height: 60px;
+	font-size: 1.5em;
+	
+    margin: 1em 0;
+    
+}
+.footer{
+	margin: 2em auto 0;
+ 	padding: 1em;
+ 	background-color: #fff; 
+ 	border: 1px solid #ccc;
+}
+
+
+
+
+
+
+
+
